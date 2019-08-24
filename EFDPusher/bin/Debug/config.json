@@ -1,0 +1,4 @@
+{
+"source_path":"c:/dpool",
+"destination_ip" : "http://localhost:6677/efd_raw"
+}

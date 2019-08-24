@@ -1,0 +1,12 @@
+C:\Users\grand\AppData\Local\Temporary Projects\EFDPusher\bin\Debug\EFDPusher.exe
+C:\Users\grand\AppData\Local\Temporary Projects\EFDPusher\bin\Debug\EFDPusher.pdb
+C:\Users\grand\AppData\Local\Temporary Projects\EFDPusher\obj\x86\Debug\EFDPusher.exe
+C:\Users\grand\AppData\Local\Temporary Projects\EFDPusher\obj\x86\Debug\EFDPusher.pdb
+C:\Users\grand\AppData\Local\Temporary Projects\EFDPusher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\grand\AppData\Local\Temporary Projects\EFDPusher\obj\x86\Debug\EFDPusher.csprojResolveAssemblyReference.cache
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\EFDPusher\EFDPusher\bin\Debug\EFDPusher.exe
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\EFDPusher\EFDPusher\bin\Debug\EFDPusher.pdb
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\EFDPusher\EFDPusher\bin\Debug\Newtonsoft.Json.dll
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\EFDPusher\EFDPusher\obj\x86\Debug\EFDPusher.csprojResolveAssemblyReference.cache
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\EFDPusher\EFDPusher\obj\x86\Debug\EFDPusher.exe
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\EFDPusher\EFDPusher\obj\x86\Debug\EFDPusher.pdb

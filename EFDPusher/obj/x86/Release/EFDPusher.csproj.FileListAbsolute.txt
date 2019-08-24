@@ -1,0 +1,7 @@
+C:\Users\grand\AppData\Local\Temporary Projects\EFDPusher\bin\Release\EFDPusher.exe
+C:\Users\grand\AppData\Local\Temporary Projects\EFDPusher\bin\Release\EFDPusher.pdb
+C:\Users\grand\AppData\Local\Temporary Projects\EFDPusher\bin\Release\Newtonsoft.Json.dll
+C:\Users\grand\AppData\Local\Temporary Projects\EFDPusher\obj\x86\Release\EFDPusher.exe
+C:\Users\grand\AppData\Local\Temporary Projects\EFDPusher\obj\x86\Release\EFDPusher.pdb
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\EFDPusher\EFDPusher\obj\x86\Release\EFDPusher.exe
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\EFDPusher\EFDPusher\obj\x86\Release\EFDPusher.pdb
